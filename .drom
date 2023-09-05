@@ -5,7 +5,7 @@ version:0.8.0
 
 # hash of toml configuration files
 # used for generation of all files
-ecbe4aa1ce63e66c9489e1888a4326cf:.
+7f25da6043168532c7f65fe464ff251c:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
@@ -70,7 +70,7 @@ e739f3026aa997af4026bc428f4c9ef6:docs/favicon.png
 
 # begin context for docs/index.html
 # file docs/index.html
-7528ee0ce98ddb729489a74eb709a6bb:docs/index.html
+fa017297f82f1954bf501fc81e4f35c3:docs/index.html
 # end context for docs/index.html
 
 # begin context for docs/sphinx/index.html
@@ -95,7 +95,7 @@ c8281f46ba9a11d0b61bc8ef67eaa357:docs/style.css
 
 # begin context for dune-project
 # file dune-project
-870d0c3870f66bae3d7cb8ffecd16968:dune-project
+7b473bd7eaed2b66b5e76b33ceaefd74:dune-project
 # end context for dune-project
 
 # begin context for opam/core.opam
@@ -180,7 +180,7 @@ fdf1fe4cb0a98d5fdf5506e49f32fb51:sphinx/conf.py
 
 # begin context for src/core_lib/dune
 # file src/core_lib/dune
-752e653d73c6d3c6a127ba270dee1e21:src/core_lib/dune
+aefc46cf23595cf763bce7ff80647c3a:src/core_lib/dune
 # end context for src/core_lib/dune
 
 # begin context for src/core_lib/index.mld

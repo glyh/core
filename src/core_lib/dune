@@ -9,6 +9,7 @@
   
   )
 
+(ocamllex Lexer)
 
 (rule
     (targets version.ml)
